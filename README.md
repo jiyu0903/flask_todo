@@ -10,6 +10,8 @@ The new feature allows the Todo list to be used not just through the HTML interf
 This means other apps, JavaScript front-ends, or even mobile apps can now create, read, update, and delete todos.
 It adds flexibility and modern integration potential, making the app much more powerful and scalable.
 
+I aldo added a Due Date feature for the to-do list. So that the user will be able to add the to-dos deadlines.
+
 
 ### Setup
 Create project with virtual environment
