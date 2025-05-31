@@ -1,6 +1,15 @@
 Simple Flask Todo App using SQLAlchemy and SQLite database.
+Updated with full REST API feature.
 
-For styling [semantic-ui](https://semantic-ui.com/) is used.
+For styling, [semantic-ui](https://semantic-ui.com/) was used on the original version of the repository. 
+To lessen the workload of browsing into semantic-ui.com, I just made the styles inside the Base.html using CSS in this new repository. 
+
+
+### New Feature (Full REST API)
+The new feature allows the Todo list to be used not just through the HTML interface, but also programmatically—via API calls.
+This means other apps, JavaScript front-ends, or even mobile apps can now create, read, update, and delete todos.
+It adds flexibility and modern integration potential, making the app much more powerful and scalable.
+
 
 ### Setup
 Create project with virtual environment
